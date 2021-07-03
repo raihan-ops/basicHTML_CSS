@@ -24,7 +24,9 @@ body{
 #myname{
 
    border-radius: 25px;
+   box-shadow: azure;
 }
 #myid{
     border-radius: 25px;
+    box-shadow: azure;
 }
