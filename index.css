@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(102, 31, 45);
+}
+.name{
+    height: 400px;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.06);
+    -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
+    position: absolute;
+     margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 8px;
+    -webkit-box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+            box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+    
+    
+}
+#myname{
+
+   border-radius: 25px;
+}
+#myid{
+    border-radius: 25px;
+}
